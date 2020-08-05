@@ -1,5 +1,5 @@
 * K哥小强计划简介
-    * [简介](README.md)
+    * [简介](/README.md)
 
 
 * JavaScript
