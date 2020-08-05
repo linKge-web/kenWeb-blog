@@ -1,14 +1,14 @@
 # 前端K哥小强计划
 
 ## 前端学习核心知识点总结
-在线文档：https://llinKge-web.gitee.io/kenwebsum-blog/#/
+在线文档：https://linkge-web.gitee.io/kenwebsum-blog/#/
 
 GitHub：https://github.com/linKge-web/kenwebsum-blog
 
 码云：https://gitee.com/linKge-web/kenwebsum-blog/tree/master/docs
 
 
-ps: 如果在GitHub加载很慢或者加载不出来，可以到[码云](https://gitee.com/linKge-web/kenwebsum-blog/tree/master/docs)进行查看,或者[在线阅读](https://llinKge-web.gitee.io/kenwebsum-blog/#/)。
+ps: 如果在GitHub加载很慢或者加载不出来，可以到[码云](https://gitee.com/linKge-web/kenwebsum-blog/tree/master/docs)进行查看,或者[在线阅读](https://linkge-web.gitee.io/kenwebsum-blog/#/)。
 
 ## 说明
 开源项目感谢大家的参与，如果觉得文章对你有帮助，麻烦留给star，你们的支持是我们最大的动力。感谢有你！!!
