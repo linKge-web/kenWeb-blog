@@ -1,5 +1,6 @@
 # 前端？肯定可以啦！
-
+ > JS基础部分已经开始更新
+ 
 GitHub：https://github.com/linKge-web/kenwebsum-blog    
 如果在GitHub加载很慢或者加载不出来，可以到[码云](https://gitee.com/linKge-web/kenwebsum-blog/tree/master/docs)进行查看,或者[在线阅读](https://linkge-web.gitee.io/kenwebsum-blog/#/)。
 
@@ -22,6 +23,6 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 - 博主也只是学习者，渴望一步步成为前端小牛，文中如有不对之处欢迎和我交流。
 
 -----
-> 持续更新中...
+> 快马加鞭更新中...
 
 
