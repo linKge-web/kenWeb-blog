@@ -1,5 +1,6 @@
 # 前端？肯定可以啦！
  > JS基础部分已经开始更新
+ > 计算机技术数据结构部分已经在更新
  
 GitHub：https://github.com/linKge-web/kenwebsum-blog    
 如果在GitHub加载很慢或者加载不出来，可以到[码云](https://gitee.com/linKge-web/kenwebsum-blog/tree/master/docs)进行查看,或者[在线阅读](https://linkge-web.gitee.io/kenwebsum-blog/#/)。
