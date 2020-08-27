@@ -5,7 +5,7 @@
     * [a-2.HTML5](/a-HTML/a-2.HTML5.md)
 * c-JavaScript
     * [c-1.JS中的变量与类型](/c-JavaScript/c-1.JS中的变量和类型.md)
-    * [c-2.JS中的面对象](/c-JavaScript/c-2.JS中的面向对象.md)
+    * [c-2.JS中的面对象](/c-JavaScript/c-2.执行上下文.md)
 
 * d-ES6
     * [d-1.严格模式](/d-ES6/d-1.严格模式.md)
