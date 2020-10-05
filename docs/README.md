@@ -5,7 +5,7 @@
 开源项目感谢大家的参与，如果觉得文章对你有帮助，麻烦 [赏个star](https://github.com/linKge-web/kenwebsum-blog)，你们的支持是我们最大的动力。感谢有你！！！让我们一起努力奔互联网大厂吧！
  
 本项目分成四大模块，如果需要克隆到本地，请到相应的GitHub下进行克隆。  
-如果在GitHub加载很慢，可以到[码云](https://gitee.com/linKge-web/kenwebsum-blog/tree/master/docs)进行查看,或者[在线阅读](https://linkge-web.gitee.io/kenwebsum-blog/#/)。
+如果在GitHub加载很慢，可以到 [码云](https://gitee.com/linKge-web/kenwebsum-blog/tree/master/docs) 进行查看,或者[在线阅读](https://linkge-web.gitee.io/kenwebsum-blog/#/)。
 
 ### kendall 前端4个模块
 
