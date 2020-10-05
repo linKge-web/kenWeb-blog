@@ -1,28 +1,39 @@
 <!DOCTYPE html>
-<!-- <html lang="en"> -->
+<html>
 <head>
   <meta charset="UTF-8">
-  <title>前端K哥小强计划</title>
+  <title>Kendall 前端</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
-  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/buble.css"> -->
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css"> -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css">
+
 </head>
 <body>
+  <nav style="color: #364d63;">
+    <a href="https://linkge-web.gitee.io/kendall-basis/#/" target="_blank">基础</a>
+    <a href="https://linkge-web.gitee.io/kendall-findoffer/#/" target="_blank">寻offer面试</a>
+    <a href="https://linkge-web.gitee.io/kendall-algoritm/#/" target="_blank">算法</a>
+    <a href="#">进阶</a>
+  </nav>
   <div id="app"></div>
   <!-- docsify-edit-on-github 在GitHub编辑 -->
   <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
   <script>
     window.$docsify = {
-      name: '小K哥前端总结目录',
-      repo: 'https://github.com/linKge-web/kenwebsum-blog',
+      name: 'Kendall前端首页',  //目录题目
+      repo: 'https://github.com/linKge-web/kenwebsum-blog',  //右上角GitHub地址
       coverpage: true,  //封面
-      loadSidebar: true,  //定制导航栏
-      maxLevel: 4,//最大支持渲染的标题层级
-      subMaxLevel: 3,  //目录中显示的最大层级
-      homepage: 'README.md',
-      auto2top: true,//切换页面后是否自动跳转到页面顶部
+      // loadSidebar: true,  //定制侧边导航栏
+      // maxLevel: 4,//最大支持渲染的标题层级
+      // subMaxLevel: 3,  //目录中显示的最大层级
+      // homepage: 'README.md',
+      // auto2top: true,//切换页面后是否自动跳转到页面顶部
+      // loadNavbar: true  //导航栏
+      
+      themeColor: '#cdc369',  //主题颜色
+      mergeNavbar: true, //小屏设备下合并导航栏到侧边栏。
 
       //全文搜索
       search: {
@@ -40,9 +51,10 @@
       ]
     }
   </script>
+  
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <!-- <script src="//unpkg.com/docsify"></script> -->
-  
+
     <!--javascript代码高亮-->
     <script src="//unpkg.com/prismjs/components/prism-javascript.js"></script>
     <script src="//unpkg.com/prismjs/components/prism-json.js"></script>
