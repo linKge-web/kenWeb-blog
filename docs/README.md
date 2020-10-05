@@ -7,13 +7,25 @@ GitHub：https://github.com/linKge-web/kenwebsum-blog
 
 ### Kendall 前端4个模块
 
-- **[基础](https://linkge-web.gitee.io/kendall-basis/#/)**
+#### 基础
+> [GitHub地址](https://github.com/linKge-web/kendall-basis)  
+> [在线阅读](https://linkge-web.gitee.io/kendall-basis/#/)
 
-- **[寻offer面试题](https://linkge-web.gitee.io/kendall-findoffer/#/)**
+#### 寻offer面试题
+> [GitHub地址](https://github.com/linKge-web/kendall-findoffer)       
+> [在线阅读](https://linkge-web.gitee.io/kendall-findoffer/#/)
 
-- **[算法](https://linkge-web.gitee.io/kendall-algoritm/#/)**
 
-- **[进阶](#/)**
+#### 算法
+>[GitHub地址](https://github.com/linKge-web/kendall-algoritm)   
+>[在线阅读](https://linkge-web.gitee.io/kendall-algoritm/#/)
+
+### 进阶
+>[GitHub地址]()   
+>[在线阅读]()     
+> *待更新...*
+
+### 关于我们
 
 #### 前端kendall介绍
 Kendall是一名在校生，目前在国内某高校读研，开源本项目是自己个人想通过开源平台帮助更多想学习前端的小伙伴，同时也有助于自己系统性的学习和总结，当然也希望能结交到同行跟多优秀的大咖。
