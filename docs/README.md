@@ -1,29 +1,38 @@
 # 前端？肯定可以啦！
 
-开源项目感谢大家的参与，如果觉得文章对你有帮助，麻烦 [留个star](https://github.com/linKge-web/kenwebsum-blog)，你们的支持是我们最大的动力。感谢有你！！！让我们一起努力奔互联网大厂吧！
+[项目GitHub：https://github.com/linKge-web/kenwebsum-blog](https://github.com/linKge-web/kenwebsum-blog)
+
+开源项目感谢大家的参与，如果觉得文章对你有帮助，麻烦 [赏个star](https://github.com/linKge-web/kenwebsum-blog)，你们的支持是我们最大的动力。感谢有你！！！让我们一起努力奔互联网大厂吧！
  
-GitHub：https://github.com/linKge-web/kenwebsum-blog    
-如果在GitHub加载很慢或者加载不出来，可以到[码云](https://gitee.com/linKge-web/kenwebsum-blog/tree/master/docs)进行查看,或者[在线阅读](https://linkge-web.gitee.io/kenwebsum-blog/#/)。
+本项目分成四大模块，如果需要克隆到本地，请到相应的GitHub下进行克隆。  
+如果在GitHub加载很慢，可以到[码云](https://gitee.com/linKge-web/kenwebsum-blog/tree/master/docs)进行查看,或者[在线阅读](https://linkge-web.gitee.io/kenwebsum-blog/#/)。
 
-### Kendall 前端4个模块
+### kendall 前端4个模块
 
-#### 基础
-> [GitHub地址](https://github.com/linKge-web/kendall-basis)  
-> [在线阅读](https://linkge-web.gitee.io/kendall-basis/#/)
+#### A.基础
 
-#### 寻offer面试题
-> [GitHub地址](https://github.com/linKge-web/kendall-findoffer)       
-> [在线阅读](https://linkge-web.gitee.io/kendall-findoffer/#/)
+[GitHub地址](https://github.com/linKge-web/kendall-basis) & 
+[码云地址](https://gitee.com/linKge-web/kendall-basis)  & 
+[在线阅读](https://linkge-web.gitee.io/kendall-basis/#/)
+
+#### B.寻offer面试题
+
+[GitHub地址](https://github.com/linKge-web/kendall-findoffer) & 
+[码云地址](https://gitee.com/linKge-web/kendall-findoffer)  & 
+[在线阅读](https://linkge-web.gitee.io/kendall-findoffer/#/)
 
 
-#### 算法
->[GitHub地址](https://github.com/linKge-web/kendall-algoritm)   
->[在线阅读](https://linkge-web.gitee.io/kendall-algoritm/#/)
+#### C.算法
 
-### 进阶
->[GitHub地址]()   
->[在线阅读]()     
-> *待更新...*
+[GitHub地址](https://github.com/linKge-web/kendall-algoritm) & 
+[码云地址](https://gitee.com/linKge-web/kendall-algoritm) & 
+[在线阅读](https://linkge-web.gitee.io/kendall-algoritm/#/)
+
+#### D.进阶
+*未更新...*     
+[GitHub地址]() & 
+[码云地址]() & 
+[在线阅读]()
 
 ### 关于我们
 
