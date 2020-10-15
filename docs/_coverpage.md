@@ -9,5 +9,5 @@
 
 [**我的博客**](https://juejin.im/user/2506542244439245/posts)
 [**GitHub**](https://github.com/linKge-web)
-[**关于Kendall**](#前端？肯定可以啦！)
+[**开始阅读**](#前端？肯定可以啦！)
 
